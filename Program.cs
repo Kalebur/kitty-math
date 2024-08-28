@@ -1,7 +1,4 @@
-﻿using System.Diagnostics.Tracing;
-using System.Security.Cryptography;
-
-namespace KittyMath
+﻿namespace KittyMath
 {
     internal class Program
     {
